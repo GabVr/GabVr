@@ -5,9 +5,9 @@
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabVr&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=GabVr&theme=merko)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabVr&hide_progress=true)
+![Top Langs](https://github-stats-extended.vercel.app/api?username=GabVr&hide_progress=true)
 
 
 ## As tecnologias que eu mais utilizo: 
