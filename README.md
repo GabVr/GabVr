@@ -1,15 +1,18 @@
 ### Olá, eu sou Gabriel Veríssimo ✨
 
+<a href="https://www.linkedin.com/in/gabriel-veri/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
-![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+<a href="mailto:gabrielverissimo735@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
 
+<br><br>
 
-![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=GabVr&theme=merko)
+<img src="https://github-stats-extended.vercel.app/api?username=GabVr&theme=merko" alt="GitHub Stats">
 
-![Top Langs](https://github-stats-extended.vercel.app/api?username=GabVr&hide_progress=true)
-
-
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GabVr&layout=compact&theme=dark" alt="Top Languages">
 ## As tecnologias que eu mais utilizo: 
 <div style="display:inline_block" >
    <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
